@@ -1,0 +1,37 @@
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\JavaScript Course.exe
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\JavaScript Course.deps.json
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\JavaScript Course.runtimeconfig.json
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\JavaScript Course.runtimeconfig.dev.json
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\JavaScript Course.dll
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\JavaScript Course.pdb
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\JavaScript Course.Views.dll
+C:\Users\Precious\source\repos\JavaScript Course\bin\Debug\netcoreapp3.1\JavaScript Course.Views.pdb
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.csprojAssemblyReference.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.AssemblyInfoInputs.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.AssemblyInfo.cs
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.csproj.CoreCompileInputs.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.RazorAssemblyInfo.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.RazorAssemblyInfo.cs
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.TagHelpers.input.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.TagHelpers.output.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.RazorCoreGenerate.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.RazorTargetAssemblyInfo.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.RazorTargetAssemblyInfo.cs
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.Views.pdb
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\staticwebassets\JavaScript Course.StaticWebAssets.Manifest.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\staticwebassets\JavaScript Course.StaticWebAssets.xml
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.dll
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.pdb
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.genruntimeconfig.cache
+C:\Users\Precious\source\repos\JavaScript Course\obj\Debug\netcoreapp3.1\JavaScript Course.csproj.CopyComplete
